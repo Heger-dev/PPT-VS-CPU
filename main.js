@@ -68,4 +68,5 @@ btn_papel.onclick = function() {
 btn_tijeras.onclick = function() {
     user = 2;
     img_user.src = "./img/Tijeras.png";
+	
 }
