@@ -59,7 +59,7 @@ btn_iniciar.onclick = function() {
 }
 btn_piedra.onclick = function() {
     user = 0;
-    img_user.src = "./img/piedra.png";
+    img_user.src = "./img/Piedra.png";
 }
 btn_papel.onclick = function() {
     user = 1;
